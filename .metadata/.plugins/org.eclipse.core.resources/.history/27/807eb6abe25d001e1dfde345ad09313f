@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="UTF-8">
+
+<title>Insert title here</title>
+
+</head>
+
+<body>
+
+CALCULDORA
+
+<form action="resultado" method="post">
+
+<input type="number" name="num1" value="Escribe un numero"></input>
+<select>'
+	< option value="opcion1" >"+"</option>
+	< option value="opcion2" >"-"</option>
+
+</select>
+<input type="number" name="num2" value="Escribe otro numero"></input>
+
+
+<input type="submit" placeholder="Dame el resultado">
+
+</form>
+
+
+</body>
+
+</html>

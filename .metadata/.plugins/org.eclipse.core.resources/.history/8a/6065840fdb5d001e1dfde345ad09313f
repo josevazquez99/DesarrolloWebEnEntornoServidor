@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="UTF-8">
+
+<title>Insert title here</title>
+
+</head>
+
+<body>
+
+HOLA MUNDO , ¿Como te llamas?
+
+
+<form action="saluda" method="post">
+
+<input type="number" name="name" value="Escribe un numero"></input>
+<input type="text" name="name" value="Escribe la operacion"></input>
+<input type="number" name="name" value="Escribe otro numero"></input>
+
+
+<input type="submit" placeholder="Dame el resultado">
+
+</form>
+
+
+</body>
+
+</html>
