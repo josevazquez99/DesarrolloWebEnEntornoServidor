@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+Hola mundo , ¿como te llamas?
+
+<form method="post" action="action.php">
+
+     <input name="ingresatexto" type="text" value="Por favor, ingresa aquí" />
+
+</form>
+
+</body>
+</html>

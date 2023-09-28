@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+/home/estudiante/Desktop/EclipseNuevo/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+1492762666.index
+1527785501.index
+105253077.index
+3702792539.index
+1276324145.index
+3419130283.index
+3290998741.index

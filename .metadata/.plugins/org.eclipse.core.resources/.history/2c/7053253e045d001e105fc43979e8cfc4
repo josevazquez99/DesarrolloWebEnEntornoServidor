@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="UTF-8">
+
+<title>Insert title here</title>
+
+</head>
+
+<body>
+
+HOLA MUNDO , ¿Como te llamas?
+
+
+<form method="post" action="ejemploServlet">
+
+<input type="text" value="Escribe tu nombre" placeholder="Nombre"></input>
+
+<input type="submit" placeholder="Enviar">
+
+</form>
+
+
+</body>
+
+</html>

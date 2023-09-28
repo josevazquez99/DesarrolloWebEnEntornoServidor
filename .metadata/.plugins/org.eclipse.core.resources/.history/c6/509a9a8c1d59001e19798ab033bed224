@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+Hola mundo , ¿como te llamas?
+
+<input type="text" placeholder="Nombre" />
+<input type="submit" placeholder="Enviar" />
+
+
+
+</body>
+</html>
